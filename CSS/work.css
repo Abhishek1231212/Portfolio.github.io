@@ -1,0 +1,17 @@
+body, html{
+    height: 100%; 
+    color: white;
+}
+.background{
+    background-image: url("../Background_Images/dark-wall-empty-room-with-plants-floor-3d-rendering.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    /* background-position: fixed; */
+}
+.logo{
+    font-size: 40px;
+    font-weight: bold;
+}
